@@ -31,6 +31,6 @@
   
 ##
 
-- 🔭 Eu trabalho como suporte técnico
-- 🌱 Estudo desenvolvimento Full Stack
-- 😄 Pronouns: ele/dele
+- 🔭 Eu trabalho como Analista de suporte técnico e Desenvolvedor Web.
+- 🌱 Estudo desenvolvimento Full Stack.
+
